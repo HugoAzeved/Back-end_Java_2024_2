@@ -1,4 +1,4 @@
-package aula3.encapsulamento;
+package aula03.encapsulamento;
 
 public class Person {
     private String name;

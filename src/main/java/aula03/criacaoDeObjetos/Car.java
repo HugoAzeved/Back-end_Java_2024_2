@@ -1,4 +1,4 @@
-package aula3.criacaoDeObjetos;
+package aula03.criacaoDeObjetos;
 
 public class Car {
 
